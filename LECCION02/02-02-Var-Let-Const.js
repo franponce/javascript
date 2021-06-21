@@ -6,5 +6,8 @@ let // Declaramos variable
 
 const // Declaramos una constante. Una vez que le asigamos un valor a una variable, ya no se puede asignar un nuevo valor
 
+// Ejemplo const
 
+const apellido = "Perez";
+apellido = "Lara"; // Assigment to constant variable
 
