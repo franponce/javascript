@@ -4,6 +4,10 @@ var nombre = "Carlos";
 
 console.log(nombre);
 
+nombre = 10;
+
+console.log(typeof nombre);
+
 // Tipo de dato numerico
 
 var numero = 1000;
