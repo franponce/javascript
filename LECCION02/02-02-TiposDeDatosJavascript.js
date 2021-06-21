@@ -67,3 +67,15 @@ console.log(y);
 x = undefined;
 
 console.log(x);
+
+// Tipo de dato array 
+
+var autos = ["BMW", "AUDI", "VOLVO"];
+console.log(autos);
+console.log(typeof autos);
+
+// Tipo de dato emty string 
+
+var z = "";
+console.log(z);
+console.log(typeof z);
