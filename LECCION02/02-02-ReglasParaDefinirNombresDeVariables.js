@@ -8,4 +8,4 @@ let a1nombreCompleto;
 let _nombreCompleto;
 let $nombreCompleto;
 
-//let 1nombreCompleto; no está permitidio inciiar el nombre de una vairable con un número 
+//let 1nombreCompleto; no está permitido inciar el nombre de una vairable con un número 
